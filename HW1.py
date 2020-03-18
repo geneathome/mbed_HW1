@@ -52,36 +52,31 @@ if (len(C0A880) == 0):
     max_range_C0A880 = 'None'
 else:
     max_range_C0A880 = float(max(C0A880))-float(min(C0A880))
-    if max_range_C0A880 == 0:
-        max_range_C0A880 = 'None'
+    
     
 if (len(C0F9A0) == 0):
     max_range_C0F9A0 = 'None'
 else:
     max_range_C0F9A0 = float(max(C0F9A0))-float(min(C0F9A0))
-    if max_range_C0F9A0 == 0:
-        max_range_C0F9A0 = 'None'
+    
     
 if (len(C0G640) == 0):
     max_range_C0G640 = 'None'
 else:
     max_range_C0G640 = float(max(C0G640))-float(min(C0G640))
-    if max_range_C0G640 == 0:
-        max_range_C0G640 = 'None'
+    
     
 if (len(C0R190) == 0):
     max_range_C0R190 = 'None'
 else:
     max_range_C0R190 = float(max(C0R190))-float(min(C0R190))
-    if max_range_C0R190 == 0:
-        max_range_C0R190 = 'None'
+    
     
 if (len(C0X260) == 0):
     max_range_C0X260 = 'None'
 else:
     max_range_C0X260 = float(max(C0X260))-float(min(C0X260))
-    if max_range_C0X260 == 0:
-        max_range_C0X260 = 'None'
+    
 #=======================================
 
 # Part. 4
